@@ -263,7 +263,9 @@ docker-compose down -v
 ## 📌 kafka-producer / kafka-consumer / H2 DB
 
 ▶️ kafka-producer = localhost:2001/student/createStudent
+
 ▶️ kafka-consumer = localhost:2002/student/list
+
 ▶️ H2 DB = http://localhost:2002/h2-console/
 
 ## 📌 Postman
