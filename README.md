@@ -1,6 +1,6 @@
 # 🎯 Apache Kafka ?
 
-<img src="kafka1">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/kafka1.jpg">
 
 * Apache Kafka, gerçek zamanlı veri yayınlama ve takip sistemi olarak tanımlanabilir. Apache Kafka, büyük veri
   uygulamaları için tasarlandı ve veri akışlarını yönetmek, depolamak ve işlemek için kullanılabilir. Apache Kafka,
@@ -30,7 +30,7 @@
 
 # 🎯 Apache Kafka Temel Kavramlar ?
 
-<img src="kafka5">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/kafka5.png">
 
 ## 📌 Topic ve Partition
 
@@ -77,7 +77,7 @@
 
 ## 📌 Broker’lara Topic Ve Partition’ların Dağılımı
 
-<img src="kafka3">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/kafka3.png">
 
 * 101, 102 ve 103 nolu üç broker’ımız olsun.
 * Topic A üç partition’dan oluştuğu ve üç broker’ımız olduğu için her broker Topic A’ya ait birer partition’a sahip
@@ -111,7 +111,7 @@
 
 # 🎯 ZooKeeper ?
 
-<img src="kafka6">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/kafka6.png">
 
 * ZooKeeper, dağıtık yapıdaki sistemlere koordinasyon hizmeti sağlayan java tabanlı bir yazılımdır.
 * Yahoo! Research tarafından geliştirilmeye başlanmıştır.
@@ -250,15 +250,15 @@ docker-compose down -v
 
 ## 📌 Docker Containers
 
-<img src="containers">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/container.png">
 
 ## 📌 KafDrop
 
 ▶️ http://localhost:9000/
 
-<img src="kafdrop1">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/kafdrop1.png">
 
-<img src="kafdrop2">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/kafdrop2.png">
 
 ## 📌 kafka-producer / kafka-consumer / H2 DB
 
@@ -282,19 +282,19 @@ docker-compose down -v
 }
 ```
 
-<img src="postman1">
-<img src="postman2">
-<img src="postman3">
-<img src="postman4">
-<img src="postman5">
-<img src="postman7">
-<img src="postman6">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman1.png">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman2.png">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman3.png">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman4.png">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman5.png">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman7.png">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman6.png">
 
 ## 📌 Jaeger
 
 ▶️ http://localhost:16686/
 
-<img src="postman8">
+<img src="https://github.com/rasitesdmr/Springboot-Kafka/blob/master/images/postman8.png">
 
 
 * Örnek resimler : images/student dosyasından bulabilirsiniz.
